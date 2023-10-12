@@ -1,1 +1,5 @@
-secret-key.txt
+.env
+result-api copy.py
+temp_image.jpg
+outputs
+uploads
