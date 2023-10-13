@@ -3,3 +3,4 @@ Pillow
 roboflow
 opencv-python
 python-dotenv
+gunicorn
