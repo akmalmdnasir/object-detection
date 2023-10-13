@@ -1,0 +1,5 @@
+Flask==2.1.1
+Pillow==8.2.0
+roboflow==1.0.0
+opencv-python==4.5.1
+python-dotenv==0.15.0
