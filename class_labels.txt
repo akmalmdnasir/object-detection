@@ -1,21 +1,21 @@
-fn kundur: 152, 245, 255
-fn lemontea: 253, 40, 143
-jnj twin: 19, 119, 14
-maggi kari unsorted: 238, 197, 152
-maggi kari: 58, 172, 216
-maggi tomyam: 110, 128, 180
-maggi tomyamunsorted: 84, 37, 209
-marigold: 159, 223, 131
-mr potato: 119, 61, 207
-nestle koko unsorted: 195, 123, 132
-nestle koko: 20, 196, 56
-nestle milo unsorted: 195, 29, 59
-nestle milo: 42, 112, 127
-nestle stars unsorted: 225, 90, 9
-nestle stars: 155, 76, 68
-ping pong: 55, 144, 139
-roma malkist: 207, 95, 5
-twisties ori: 189, 11, 91
-twisties sco: 101, 66, 242
-yeos greentea: 171, 232, 84
-yeos tebu: 119, 217, 59
+fn kundur: 51, 82, 85
+fn lemontea: 63, 10, 71
+jnj twin: 9, 59, 7
+maggi kari: 29, 86, 108
+maggi kari unsorted: 119, 98, 76
+maggi tomyam: 55, 64, 90
+maggi tomyam unsorted: 42, 18, 104
+marigold: 79, 111, 65
+mr potato: 59, 30, 103
+nestle koko: 10, 98, 28
+nestle koko unsorted: 97, 61, 66
+nestle milo: 21, 56, 63
+nestle milo unsorted: 97, 15, 30
+nestle stars: 77, 38, 34
+nestle stars unsorted: 112, 45, 4
+ping pong: 27, 72, 69
+roma malkist: 103, 47, 2
+twisties ori: 94, 5, 46
+twisties sco: 50, 33, 121
+yeos greentea: 68, 116, 42
+yeos tebu: 59, 108, 29

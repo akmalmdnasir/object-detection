@@ -1,11 +1,20 @@
 .env
-result-api copy.py
-temp_image.jpg
-outputs
-uploads
+__pycache__
 annotated_images
+archive
+output_images
+static
 Template
-app copy.py
+uploads
+app copy 1.py
 app copy 2.py
 app copy 3.py
-downloadImg.py
+app copy 4.py
+app copy 5.py
+app copy 6.py
+app copy 7.py
+app copy 8.py
+app copy 9.py
+app copy 10.py
+app copy.py
+app.py
